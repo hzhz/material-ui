@@ -19,7 +19,7 @@
   "dependencies": {
     "@material-ui/core": "^4.9.3",
     "@material-ui/icons": "^4.9.1",
-    "naming-style": "^1.0.0"
+    "naming-style": "^1.0.1"
   },
   "peerDependencies": {
     "@types/react": "^16.8.6",
