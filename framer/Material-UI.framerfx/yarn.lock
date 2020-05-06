@@ -238,9 +238,10 @@ loose-envify@^1.4.0:
   dependencies:
     js-tokens "^3.0.0 || ^4.0.0"
 
-naming-style@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/naming-style/-/naming-style-1.0.0.tgz#0b0299b9a5122c61c971461d435f16fddb9ecd3d"
+naming-style@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/naming-style/-/naming-style-1.0.1.tgz#2c81f378a9e4d278618c2c8aa5506b0b2a33034d"
+  integrity sha512-0TReXPuxU6ebUmDQmfDjkCwvhhJ86Gg02/Pliti1+ClkLKFOYBL6CJn+MEPT3nX35tGpyaUl+IwFGmh562TvKA==
 
 object-assign@^4.1.1:
   version "4.1.1"
