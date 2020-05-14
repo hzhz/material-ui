@@ -10,12 +10,16 @@
     "gatsby-plugin-react-helmet": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "react-helmet": "latest"
+    "react-helmet": "latest",
+    "snyk": "^1.320.3"
   },
   "scripts": {
     "develop": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
-    "post-update": "echo \"codesandbox preview only, need an update\" && yarn upgrade --latest"
-  }
+    "post-update": "echo \"codesandbox preview only, need an update\" && yarn upgrade --latest",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
+  },
+  "snyk": true
 }
