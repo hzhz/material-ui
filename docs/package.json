@@ -79,7 +79,7 @@
     "lodash": "^4.17.15",
     "lz-string": "^1.4.4",
     "markdown-to-jsx": "^6.10.2",
-    "marked": "^1.0.0",
+    "marked": "^2.0.0",
     "material-table": "^1.50.0",
     "material-ui-popup-state": "^1.4.1",
     "next": "^9.3.0",
@@ -113,7 +113,7 @@
     "url-loader": "^2.1.0",
     "webfontloader": "^1.6.28",
     "webpack": "^4.41.0",
-    "webpack-bundle-analyzer": "^3.5.1"
+    "webpack-bundle-analyzer": "^4.0.0"
   },
   "devDependencies": {
     "@babel/plugin-transform-react-constant-elements": "^7.8.3",
